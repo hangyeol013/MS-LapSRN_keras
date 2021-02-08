@@ -5,8 +5,7 @@ A implementation of the original paper ['Fast and Accurate Image Super-Resolutio
 
 
 
-<center><img width = "400" src="https://user-images.githubusercontent.com/58276840/95935196-a628fd80-0e0d-11eb-9549-1bf61f1667a1.png"></center>
-
+<center><img width = "400" src="https://user-images.githubusercontent.com/58276840/107219462-6798fd80-6a11-11eb-91f1-6d9c7374e9d8.png"></center>
 
 
 tensorflow-gpu 2.0.0, keras 2.3.1 based implementation on Python 3.6.9, using Jupyter Notebook.
